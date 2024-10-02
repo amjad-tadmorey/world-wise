@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "id": "5c6c",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-03T20:35:19.219Z",
+      "notes": "",
+      "position": {
+        "lat": "29.95102467137545",
+        "lng": "31.425448521696822"
+      }
+    },
+    {
+      "id": "a47f",
+      "cityName": "Quţur",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-03T20:35:31.157Z",
+      "notes": "",
+      "position": {
+        "lat": "31.02482650257375",
+        "lng": "30.93148097112761"
+      }
+    },
+    {
+      "id": "f10f",
+      "cityName": "El Dabaa",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-03T20:35:55.647Z",
+      "notes": "betkhree",
+      "position": {
+        "lat": "30.270598031116126",
+        "lng": "28.410644531250004"
+      }
+    },
+    {
+      "id": "4b3a",
+      "cityName": "Abu al Maţamir",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-10-02T08:44:22.985Z",
+      "notes": "",
+      "position": {
+        "lat": "30.784863682472977",
+        "lng": "30.34939727102794"
+      }
+    },
+    {
+      "id": "3498",
+      "cityName": "Al Bayḑa’",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-10-02T08:44:32.174Z",
+      "notes": "",
+      "position": {
+        "lat": "32.69475167026682",
+        "lng": "21.563381054902333"
+      }
+    },
+    {
+      "id": "31e4",
+      "cityName": "Astakos",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-10-02T08:44:38.257Z",
+      "notes": "",
+      "position": {
+        "lat": "38.66451674202321",
+        "lng": "21.01537492819184"
+      }
+    },
+    {
+      "id": "01d4",
+      "cityName": "Mezquita de Jarque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-02T08:58:25.065Z",
+      "notes": "",
+      "position": {
+        "lat": "40.73496412755385",
+        "lng": "-0.9065860233605384"
+      }
+    },
+    {
+      "id": "29df",
+      "cityName": "Cleden-Poher",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-02T08:58:33.008Z",
+      "notes": "",
+      "position": {
+        "lat": "48.232686115613",
+        "lng": "-3.6493396490265284"
+      }
+    }
+  ]
+}
